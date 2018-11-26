@@ -1,0 +1,63 @@
+[
+    {
+        "value": 10,
+        "metadata": {
+            "userType": 0,
+            "flags": 16,
+            "type": {
+                "id": 56,
+                "type": "INT4",
+                "name": "Int"
+            },
+            "colName": "id"
+        }
+    },
+    {
+        "value": "vinicius",
+        "metadata": {
+            "userType": 0,
+            "flags": 9,
+            "type": {
+                "id": 167,
+                "type": "BIGVARCHR",
+                "name": "VarChar",
+                "hasCollation": true,
+                "dataLengthLength": 2,
+                "maximumLength": 8000
+            },
+            "colName": "username",
+            "collation": {
+                "lcid": 1033,
+                "flags": 208,
+                "version": 0,
+                "sortId": 52,
+                "codepage": "CP1252"
+            },
+            "dataLength": 30
+        }
+    },
+    {
+        "value": "$2b$12$OIchiR.LFWUEUqcDHob6y.XF0lZS9U9mJd/pj7bsdAgbWGpVxPkhK",
+        "metadata": {
+            "userType": 0,
+            "flags": 9,
+            "type": {
+                "id": 167,
+                "type": "BIGVARCHR",
+                "name": "VarChar",
+                "hasCollation": true,
+                "dataLengthLength": 2,
+                "maximumLength": 8000
+            },
+            "colName": "senha",
+            "collation": {
+                "lcid": 1033,
+                "flags": 208,
+                "version": 0,
+                "sortId": 52,
+                "codepage": "CP1252"
+            },
+            "dataLength": 70
+        }
+    }
+]
